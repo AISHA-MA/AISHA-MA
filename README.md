@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @AISHA-MA, a Biomedical Engineer with a passion for healthcare technology and data analysis.
+- 👋 Hi, I’m AISHA MOHAMED , a Biomedical Engineer with a passion for healthcare technology and data analysis.
 - 👀 I’m interested in leveraging technology to improve healthcare outcomes, especially through data-driven insights and digital transformation.
 - 🌱 I’m currently learning advanced data analysis techniques using Python, Power BI, and SQL, while expanding my knowledge in healthcare technology management.
 - 💞️ I’m looking to collaborate on projects related to healthcare data analysis, telehealth services, and medical technology solutions.
